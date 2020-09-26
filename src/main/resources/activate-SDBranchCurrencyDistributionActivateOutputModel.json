@@ -1,0 +1,24 @@
+{
+  "branchCurrencyDistributionServiceConfigurationRecord" : {
+    "branchCurrencyDistributionServiceConfigurationSettingDescription" : "branchCurrencyDistributionServiceConfigurationSettingDescription",
+    "branchCurrencyDistributionServiceAgreement" : {
+      "branchCurrencyDistributionServiceAgreementTermsandConditions" : "branchCurrencyDistributionServiceAgreementTermsandConditions",
+      "branchCurrencyDistributionServiceAgreementReference" : "791202",
+      "branchCurrencyDistributionServiceUserReference" : "767210"
+    },
+    "branchCurrencyDistributionServiceStatus" : "branchCurrencyDistributionServiceStatus",
+    "branchCurrencyDistributionServiceConfigurationSettingReference" : "700761",
+    "branchCurrencyDistributionServiceConfigurationSetup" : {
+      "branchCurrencyDistributionServiceConfigurationParameter" : "branchCurrencyDistributionServiceConfigurationParameter"
+    },
+    "branchCurrencyDistributionServiceSubscription" : {
+      "branchCurrencyDistributionServiceSubscriberAccessProfile" : "branchCurrencyDistributionServiceSubscriberAccessProfile",
+      "branchCurrencyDistributionServiceSubscriberReference" : "769192"
+    }
+  },
+  "branchCurrencyDistributionActivationActionTaskReference" : "SAATR758836",
+  "branchCurrencyDistributionActivationActionTaskRecord" : {},
+  "branchCurrencyDistributionServicingSessionStatus" : "branchCurrencyDistributionServicingSessionStatus",
+  "branchCurrencyDistributionServicingSessionReference" : "SSSR783215",
+  "branchCurrencyDistributionServicingSessionRecord" : {}
+}

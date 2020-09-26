@@ -1,0 +1,11 @@
+{
+  "cashDistributionProcedureSelectedOption" : "cashDistributionProcedureSelectedOption",
+  "cashDistributionProcedureStatus" : "cashDistributionProcedureStatus",
+  "cashDistributionProcedureParameterType" : "cashDistributionProcedureParameterType",
+  "cashDistributionProcedureInitiateActionReference" : "CDPIAR719886",
+  "cashDistributionProcedureSchedule" : "cashDistributionProcedureSchedule",
+  "cashDistributionProcedureInstanceStatus" : "cashDistributionProcedureInstanceStatus",
+  "cashDistributionProcedureRequest" : "cashDistributionProcedureRequest",
+  "cashDistributionProcedureInstanceReference" : "CDPIR739574",
+  "cashDistributionProcedureInitiateActionRecord" : {}
+}

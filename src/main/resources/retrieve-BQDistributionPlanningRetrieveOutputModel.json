@@ -1,0 +1,26 @@
+{
+  "distributionPlanningRetrieveActionTaskReference" : "CDPRATR762858",
+  "distributionPlanningPreconditions" : "distributionPlanningPreconditions",
+  "distributionPlanningDistributionPlanningServiceInputsandOuputs" : "distributionPlanningDistributionPlanningServiceInputsandOuputs",
+  "distributionPlanningBusinessUnitEmployeeReference" : "CDPBUR716879",
+  "distributionPlanningDistributionPlanningServiceWorkProduct" : "distributionPlanningDistributionPlanningServiceWorkProduct",
+  "distributionPlanningInstanceReport" : {
+    "distributionPlanningInstanceReportRecord" : {},
+    "distributionPlanningInstanceReportType" : "distributionPlanningInstanceReportType",
+    "distributionPlanningInstanceReport" : {},
+    "distributionPlanningInstanceReportParameters" : "distributionPlanningInstanceReportParameters"
+  },
+  "distributionPlanningRetrieveActionResponse" : "distributionPlanningRetrieveActionResponse",
+  "distributionPlanningPostconditions" : "distributionPlanningPostconditions",
+  "distributionPlanningDistributionPlanningServiceName" : "distributionPlanningDistributionPlanningServiceName",
+  "distributionPlanningRetrieveActionTaskRecord" : {},
+  "distributionPlanningDistributionPlanningServiceDescription" : "distributionPlanningDistributionPlanningServiceDescription",
+  "distributionPlanningInstanceAnalysis" : {
+    "distributionPlanningInstanceAnalysisReport" : {},
+    "distributionPlanningInstanceAnalysisParameters" : "distributionPlanningInstanceAnalysisParameters",
+    "distributionPlanningInstanceAnalysisRecord" : {},
+    "distributionPlanningInstanceAnalysisReportType" : "distributionPlanningInstanceAnalysisReportType"
+  },
+  "distributionPlanningWorkSchedule" : "distributionPlanningWorkSchedule",
+  "distributionPlanningDistributionPlanningServiceType" : "distributionPlanningDistributionPlanningServiceType"
+}

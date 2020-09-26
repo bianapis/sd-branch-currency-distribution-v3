@@ -1,0 +1,34 @@
+{
+  "cashDistributionProcedureSelectedOption" : "cashDistributionProcedureSelectedOption",
+  "cashDistributionProcedureCustomerAgreementReference" : "CDPCAR733788",
+  "cashDistributionProcedureReference" : "CDPR754551",
+  "cashDistributionProcedureInstanceReportRecord" : {
+    "cashDistributionProcedureInstanceReportType" : "cashDistributionProcedureInstanceReportType",
+    "cashDistributionProcedureInstanceReportData" : "cashDistributionProcedureInstanceReportData",
+    "cashDistributionProcedureInstanceReport" : {}
+  },
+  "cashDistributionProcedureFinancialFacilityReference" : "CDPFFR704679",
+  "cashDistributionProcedureCustomerReference" : "CDPCR739749",
+  "cashDistributionProcedureType" : "cashDistributionProcedureType",
+  "cashDistributionProcedureRetrieveActionTaskReference" : "CDPRATR763161",
+  "cashDistributionProcedureServiceType" : "cashDistributionProcedureServiceType",
+  "cashDistributionProcedureRequest" : "cashDistributionProcedureRequest",
+  "cashDistributionProcedureProductandServiceInstance" : "cashDistributionProcedureProductandServiceInstance",
+  "cashDistributionProcedureRetrieveActionResponse" : "cashDistributionProcedureRetrieveActionResponse",
+  "cashDistributionProcedureTransactionType" : "cashDistributionProcedureTransactionType",
+  "cashDistributionProcedureBusinessUnitReference" : "CDPBUR780808",
+  "cashDistributionProcedureStatus" : "cashDistributionProcedureStatus",
+  "cashDistributionProcedureParameterType" : "cashDistributionProcedureParameterType",
+  "cashDistributionProcedureEmployeeReference" : "CDPER745178",
+  "cashDistributionProcedureServiceProviderReference" : "CDPSR777925",
+  "cashDistributionProcedureInstanceAnalysis" : {
+    "cashDistributionProcedureInstanceAnalysisData" : "cashDistributionProcedureInstanceAnalysisData",
+    "cashDistributionProcedureInstanceAnalysisReport" : {},
+    "cashDistributionProcedureInstanceAnalysisReportType" : "cashDistributionProcedureInstanceAnalysisReportType"
+  },
+  "cashDistributionProcedureSchedule" : "cashDistributionProcedureSchedule",
+  "cashDistributionProcedureProductandServiceType" : "cashDistributionProcedureProductandServiceType",
+  "cashDistributionProcedureFinancialTransactionArrangement" : "cashDistributionProcedureFinancialTransactionArrangement",
+  "cashDistributionProcedureRetrieveActionTaskRecord" : {},
+  "cashDistributionProcedureServiceProviderSchedule" : "cashDistributionProcedureServiceProviderSchedule"
+}

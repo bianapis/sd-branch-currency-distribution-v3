@@ -1,0 +1,15 @@
+{
+  "distributionVehicleAdministrationVehicleAdministrationServiceName" : "distributionVehicleAdministrationVehicleAdministrationServiceName",
+  "inventoryDistributionOversightRequestRecordReference" : "IDORRR747387",
+  "distributionVehicleAdministrationVehicleAdministrationServiceDescription" : "distributionVehicleAdministrationVehicleAdministrationServiceDescription",
+  "inventoryDistributionOversightRequestActionTaskReference" : "IDORATR754733",
+  "distributionVehicleAdministrationVehicleAdministrationServiceInputsandOuputs" : "distributionVehicleAdministrationVehicleAdministrationServiceInputsandOuputs",
+  "distributionVehicleAdministrationVehicleAdministrationServiceType" : "distributionVehicleAdministrationVehicleAdministrationServiceType",
+  "distributionVehicleAdministrationPreconditions" : "distributionVehicleAdministrationPreconditions",
+  "distributionVehicleAdministrationBusinessUnitEmployeeReference" : "DVABUR707778",
+  "requestResponseRecord" : {},
+  "inventoryDistributionOversightRequestActionTaskRecord" : {},
+  "distributionVehicleAdministrationVehicleAdministrationServiceWorkProduct" : "distributionVehicleAdministrationVehicleAdministrationServiceWorkProduct",
+  "distributionVehicleAdministrationPostconditions" : "distributionVehicleAdministrationPostconditions",
+  "distributionVehicleAdministrationWorkSchedule" : "distributionVehicleAdministrationWorkSchedule"
+}

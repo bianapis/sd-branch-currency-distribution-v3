@@ -1,0 +1,15 @@
+{
+  "inventoryDistributionOversightInventoryDistributionOversightServiceDescription" : "inventoryDistributionOversightInventoryDistributionOversightServiceDescription",
+  "inventoryProvisioningRequestRecordReference" : "IPRRR797196",
+  "inventoryDistributionOversightInventoryDistributionOversightServiceInputsandOuputs" : "inventoryDistributionOversightInventoryDistributionOversightServiceInputsandOuputs",
+  "inventoryDistributionOversightPreconditions" : "inventoryDistributionOversightPreconditions",
+  "inventoryProvisioningRequestActionTaskReference" : "IPRATR771123",
+  "inventoryProvisioningRequestActionTaskRecord" : {},
+  "inventoryDistributionOversightBusinessUnitEmployeeReference" : "IDOBUR751361",
+  "requestResponseRecord" : {},
+  "inventoryDistributionOversightInventoryDistributionOversightServiceName" : "inventoryDistributionOversightInventoryDistributionOversightServiceName",
+  "inventoryDistributionOversightPostconditions" : "inventoryDistributionOversightPostconditions",
+  "inventoryDistributionOversightInventoryDistributionOversightServiceWorkProduct" : "inventoryDistributionOversightInventoryDistributionOversightServiceWorkProduct",
+  "inventoryDistributionOversightWorkSchedule" : "inventoryDistributionOversightWorkSchedule",
+  "inventoryDistributionOversightInventoryDistributionOversightServiceType" : "inventoryDistributionOversightInventoryDistributionOversightServiceType"
+}

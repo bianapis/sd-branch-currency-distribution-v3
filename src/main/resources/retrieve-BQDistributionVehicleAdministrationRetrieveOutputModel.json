@@ -1,0 +1,25 @@
+{
+  "inventoryProvisioningWorkSchedule" : "inventoryProvisioningWorkSchedule",
+  "inventoryProvisioningInventoryProvisioningServiceDescription" : "inventoryProvisioningInventoryProvisioningServiceDescription",
+  "inventoryProvisioningInventoryProvisioningServiceType" : "inventoryProvisioningInventoryProvisioningServiceType",
+  "distributionVehicleAdministrationRetrieveActionTaskReference" : "DVARATR715667",
+  "inventoryProvisioningBusinessUnitEmployeeReference" : "IPBUR783375",
+  "inventoryProvisioningInventoryProvisioningServiceInputsandOuputs" : "inventoryProvisioningInventoryProvisioningServiceInputsandOuputs",
+  "distributionVehicleAdministrationRetrieveActionResponse" : "distributionVehicleAdministrationRetrieveActionResponse",
+  "distributionVehicleAdministrationInstanceReport" : {
+    "distributionVehicleAdministrationInstanceReportRecord" : {},
+    "distributionVehicleAdministrationInstanceReportParameters" : "distributionVehicleAdministrationInstanceReportParameters",
+    "distributionVehicleAdministrationInstanceReportType" : "distributionVehicleAdministrationInstanceReportType",
+    "distributionVehicleAdministrationInstanceReport" : {}
+  },
+  "distributionVehicleAdministrationInstanceAnalysis" : {
+    "distributionVehicleAdministrationInstanceAnalysisReport" : {},
+    "distributionVehicleAdministrationInstanceAnalysisReportType" : "distributionVehicleAdministrationInstanceAnalysisReportType",
+    "distributionVehicleAdministrationInstanceAnalysisParameters" : "distributionVehicleAdministrationInstanceAnalysisParameters",
+    "distributionVehicleAdministrationInstanceAnalysisRecord" : {}
+  },
+  "distributionVehicleAdministrationRetrieveActionTaskRecord" : {},
+  "inventoryProvisioningPreconditions" : "inventoryProvisioningPreconditions",
+  "inventoryProvisioningPostconditions" : "inventoryProvisioningPostconditions",
+  "inventoryProvisioningInventoryProvisioningServiceWorkProduct" : "inventoryProvisioningInventoryProvisioningServiceWorkProduct"
+}

@@ -1,0 +1,13 @@
+{
+  "inventoryProvisioningWorkSchedule" : "inventoryProvisioningWorkSchedule",
+  "inventoryProvisioningInventoryProvisioningServiceDescription" : "inventoryProvisioningInventoryProvisioningServiceDescription",
+  "inventoryProvisioningInventoryProvisioningServiceType" : "inventoryProvisioningInventoryProvisioningServiceType",
+  "distributionVehicleAdministrationUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "inventoryProvisioningPreconditions" : "inventoryProvisioningPreconditions",
+  "inventoryProvisioningBusinessUnitEmployeeReference" : "IPBUR758759",
+  "inventoryProvisioningPostconditions" : "inventoryProvisioningPostconditions",
+  "inventoryProvisioningInventoryProvisioningServiceInputsandOuputs" : "inventoryProvisioningInventoryProvisioningServiceInputsandOuputs",
+  "inventoryProvisioningInventoryProvisioningServiceWorkProduct" : "inventoryProvisioningInventoryProvisioningServiceWorkProduct",
+  "distributionVehicleAdministrationUpdateActionTaskReference" : "DVAUATR778536"
+}

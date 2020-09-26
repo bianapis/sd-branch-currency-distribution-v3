@@ -1,0 +1,39 @@
+{
+  "branchCurrencyDistributionRetrieveActionRecord" : {
+    "branchCurrencyDistributionPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "branchCurrencyDistributionActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    }
+  },
+  "branchCurrencyDistributionRetrieveActionResponse" : "branchCurrencyDistributionRetrieveActionResponse",
+  "branchCurrencyDistributionOfferedService" : {
+    "branchCurrencyDistributionServiceRecord" : {
+      "branchCurrencyDistributionServicePoliciesandGuidelines" : {
+        "branchCurrencyDistributionServicePricingandTerms" : "branchCurrencyDistributionServicePricingandTerms",
+        "branchCurrencyDistributionServiceEligibility" : "branchCurrencyDistributionServiceEligibility",
+        "branchCurrencyDistributionServiceIntendedUses" : "branchCurrencyDistributionServiceIntendedUses"
+      },
+      "branchCurrencyDistributionServiceDescription" : "branchCurrencyDistributionServiceDescription",
+      "branchCurrencyDistributionServiceVersion" : "branchCurrencyDistributionServiceVersion",
+      "branchCurrencyDistributionServiceType" : "branchCurrencyDistributionServiceType",
+      "branchCurrencyDistributionServiceSchedule" : "branchCurrencyDistributionServiceSchedule"
+    },
+    "branchCurrencyDistributionServiceReference" : "776158"
+  },
+  "branchCurrencyDistributionRetrieveActionTaskRecord" : {},
+  "branchCurrencyDistributionRetrieveActionTaskReference" : "SRATR795161"
+}

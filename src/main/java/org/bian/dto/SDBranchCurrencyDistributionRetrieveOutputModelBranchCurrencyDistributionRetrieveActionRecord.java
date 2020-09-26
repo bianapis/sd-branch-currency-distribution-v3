@@ -1,0 +1,67 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.SDBranchCurrencyDistributionRetrieveOutputModelBranchCurrencyDistributionRetrieveActionRecordBranchCurrencyDistributionActivityAnalysis;
+import org.bian.dto.SDBranchCurrencyDistributionRetrieveOutputModelBranchCurrencyDistributionRetrieveActionRecordBranchCurrencyDistributionPerformanceAnalysis;
+import org.bian.dto.SDBranchCurrencyDistributionRetrieveOutputModelBranchCurrencyDistributionRetrieveActionRecordControlRecordPortfolioAnalysis;
+
+import javax.validation.Valid;
+  
+/**
+ * SDBranchCurrencyDistributionRetrieveOutputModelBranchCurrencyDistributionRetrieveActionRecord
+ */
+public class SDBranchCurrencyDistributionRetrieveOutputModelBranchCurrencyDistributionRetrieveActionRecord   {
+  private SDBranchCurrencyDistributionRetrieveOutputModelBranchCurrencyDistributionRetrieveActionRecordBranchCurrencyDistributionActivityAnalysis branchCurrencyDistributionActivityAnalysis = null;
+
+  private SDBranchCurrencyDistributionRetrieveOutputModelBranchCurrencyDistributionRetrieveActionRecordBranchCurrencyDistributionPerformanceAnalysis branchCurrencyDistributionPerformanceAnalysis = null;
+
+  private SDBranchCurrencyDistributionRetrieveOutputModelBranchCurrencyDistributionRetrieveActionRecordControlRecordPortfolioAnalysis controlRecordPortfolioAnalysis = null;
+
+
+  /**
+   * Get branchCurrencyDistributionActivityAnalysis
+   * @return branchCurrencyDistributionActivityAnalysis
+  **/
+
+  public SDBranchCurrencyDistributionRetrieveOutputModelBranchCurrencyDistributionRetrieveActionRecordBranchCurrencyDistributionActivityAnalysis getBranchCurrencyDistributionActivityAnalysis() {
+    return branchCurrencyDistributionActivityAnalysis;
+  }
+
+  public void setBranchCurrencyDistributionActivityAnalysis(SDBranchCurrencyDistributionRetrieveOutputModelBranchCurrencyDistributionRetrieveActionRecordBranchCurrencyDistributionActivityAnalysis branchCurrencyDistributionActivityAnalysis) {
+    this.branchCurrencyDistributionActivityAnalysis = branchCurrencyDistributionActivityAnalysis;
+  }
+
+
+  /**
+   * Get branchCurrencyDistributionPerformanceAnalysis
+   * @return branchCurrencyDistributionPerformanceAnalysis
+  **/
+
+  public SDBranchCurrencyDistributionRetrieveOutputModelBranchCurrencyDistributionRetrieveActionRecordBranchCurrencyDistributionPerformanceAnalysis getBranchCurrencyDistributionPerformanceAnalysis() {
+    return branchCurrencyDistributionPerformanceAnalysis;
+  }
+
+  public void setBranchCurrencyDistributionPerformanceAnalysis(SDBranchCurrencyDistributionRetrieveOutputModelBranchCurrencyDistributionRetrieveActionRecordBranchCurrencyDistributionPerformanceAnalysis branchCurrencyDistributionPerformanceAnalysis) {
+    this.branchCurrencyDistributionPerformanceAnalysis = branchCurrencyDistributionPerformanceAnalysis;
+  }
+
+
+  /**
+   * Get controlRecordPortfolioAnalysis
+   * @return controlRecordPortfolioAnalysis
+  **/
+
+  public SDBranchCurrencyDistributionRetrieveOutputModelBranchCurrencyDistributionRetrieveActionRecordControlRecordPortfolioAnalysis getControlRecordPortfolioAnalysis() {
+    return controlRecordPortfolioAnalysis;
+  }
+
+  public void setControlRecordPortfolioAnalysis(SDBranchCurrencyDistributionRetrieveOutputModelBranchCurrencyDistributionRetrieveActionRecordControlRecordPortfolioAnalysis controlRecordPortfolioAnalysis) {
+    this.controlRecordPortfolioAnalysis = controlRecordPortfolioAnalysis;
+  }
+
+
+}
+

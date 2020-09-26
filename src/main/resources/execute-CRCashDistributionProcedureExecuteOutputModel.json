@@ -1,0 +1,11 @@
+{
+  "cashDistributionProcedureSelectedOption" : "cashDistributionProcedureSelectedOption",
+  "cashDistributionProcedureStatus" : "cashDistributionProcedureStatus",
+  "executeRecordReference" : "ERR741782",
+  "cashDistributionProcedureParameterType" : "cashDistributionProcedureParameterType",
+  "executeResponseRecord" : {},
+  "cashDistributionProcedureExecuteActionTaskReference" : "CDPEATR749957",
+  "cashDistributionProcedureSchedule" : "cashDistributionProcedureSchedule",
+  "cashDistributionProcedureRequest" : "cashDistributionProcedureRequest",
+  "cashDistributionProcedureExecuteActionTaskRecord" : {}
+}

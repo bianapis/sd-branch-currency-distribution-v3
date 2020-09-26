@@ -1,0 +1,25 @@
+{
+  "inventoryProvisioningWorkSchedule" : "inventoryProvisioningWorkSchedule",
+  "inventoryProvisioningInventoryProvisioningServiceDescription" : "inventoryProvisioningInventoryProvisioningServiceDescription",
+  "inventoryProvisioningInventoryProvisioningServiceType" : "inventoryProvisioningInventoryProvisioningServiceType",
+  "inventoryProvisioningInstanceAnalysis" : {
+    "inventoryProvisioningInstanceAnalysisParameters" : "inventoryProvisioningInstanceAnalysisParameters",
+    "inventoryProvisioningInstanceAnalysisReportType" : "inventoryProvisioningInstanceAnalysisReportType",
+    "inventoryProvisioningInstanceAnalysisReport" : {},
+    "inventoryProvisioningInstanceAnalysisRecord" : {}
+  },
+  "inventoryProvisioningBusinessUnitEmployeeReference" : "IPBUR786755",
+  "inventoryProvisioningInventoryProvisioningServiceInputsandOuputs" : "inventoryProvisioningInventoryProvisioningServiceInputsandOuputs",
+  "inventoryProvisioningRetrieveActionTaskRecord" : {},
+  "inventoryProvisioningInstanceReport" : {
+    "inventoryProvisioningInstanceReportParameters" : "inventoryProvisioningInstanceReportParameters",
+    "inventoryProvisioningInstanceReportRecord" : {},
+    "inventoryProvisioningInstanceReportType" : "inventoryProvisioningInstanceReportType",
+    "inventoryProvisioningInstanceReport" : {}
+  },
+  "inventoryProvisioningRetrieveActionTaskReference" : "IPRATR730478",
+  "inventoryProvisioningRetrieveActionResponse" : "inventoryProvisioningRetrieveActionResponse",
+  "inventoryProvisioningPreconditions" : "inventoryProvisioningPreconditions",
+  "inventoryProvisioningPostconditions" : "inventoryProvisioningPostconditions",
+  "inventoryProvisioningInventoryProvisioningServiceWorkProduct" : "inventoryProvisioningInventoryProvisioningServiceWorkProduct"
+}

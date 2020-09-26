@@ -1,0 +1,10 @@
+{
+  "cashDistributionProcedureSelectedOption" : "cashDistributionProcedureSelectedOption",
+  "cashDistributionProcedureStatus" : "cashDistributionProcedureStatus",
+  "cashDistributionProcedureParameterType" : "cashDistributionProcedureParameterType",
+  "cashDistributionProcedureUpdateActionTaskReference" : "CDPUATR753171",
+  "updateResponseRecord" : {},
+  "cashDistributionProcedureSchedule" : "cashDistributionProcedureSchedule",
+  "cashDistributionProcedureUpdateActionTaskRecord" : {},
+  "cashDistributionProcedureRequest" : "cashDistributionProcedureRequest"
+}

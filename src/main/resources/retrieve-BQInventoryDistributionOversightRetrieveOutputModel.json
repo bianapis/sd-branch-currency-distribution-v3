@@ -1,0 +1,26 @@
+{
+  "inventoryDistributionOversightInstanceReport" : {
+    "inventoryDistributionOversightInstanceReport" : {},
+    "inventoryDistributionOversightInstanceReportRecord" : {},
+    "inventoryDistributionOversightInstanceReportType" : "inventoryDistributionOversightInstanceReportType",
+    "inventoryDistributionOversightInstanceReportParameters" : "inventoryDistributionOversightInstanceReportParameters"
+  },
+  "distributionVehicleAdministrationVehicleAdministrationServiceName" : "distributionVehicleAdministrationVehicleAdministrationServiceName",
+  "inventoryDistributionOversightRetrieveActionTaskRecord" : {},
+  "distributionVehicleAdministrationVehicleAdministrationServiceDescription" : "distributionVehicleAdministrationVehicleAdministrationServiceDescription",
+  "inventoryDistributionOversightRetrieveActionResponse" : "inventoryDistributionOversightRetrieveActionResponse",
+  "inventoryDistributionOversightInstanceAnalysis" : {
+    "inventoryDistributionOversightInstanceAnalysisParameters" : "inventoryDistributionOversightInstanceAnalysisParameters",
+    "inventoryDistributionOversightInstanceAnalysisReportType" : "inventoryDistributionOversightInstanceAnalysisReportType",
+    "inventoryDistributionOversightInstanceAnalysisReport" : {},
+    "inventoryDistributionOversightInstanceAnalysisRecord" : {}
+  },
+  "distributionVehicleAdministrationVehicleAdministrationServiceInputsandOuputs" : "distributionVehicleAdministrationVehicleAdministrationServiceInputsandOuputs",
+  "distributionVehicleAdministrationVehicleAdministrationServiceType" : "distributionVehicleAdministrationVehicleAdministrationServiceType",
+  "distributionVehicleAdministrationPreconditions" : "distributionVehicleAdministrationPreconditions",
+  "distributionVehicleAdministrationBusinessUnitEmployeeReference" : "DVABUR752465",
+  "inventoryDistributionOversightRetrieveActionTaskReference" : "IDORATR798491",
+  "distributionVehicleAdministrationVehicleAdministrationServiceWorkProduct" : "distributionVehicleAdministrationVehicleAdministrationServiceWorkProduct",
+  "distributionVehicleAdministrationPostconditions" : "distributionVehicleAdministrationPostconditions",
+  "distributionVehicleAdministrationWorkSchedule" : "distributionVehicleAdministrationWorkSchedule"
+}

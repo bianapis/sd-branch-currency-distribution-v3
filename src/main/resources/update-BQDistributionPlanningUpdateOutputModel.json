@@ -1,0 +1,14 @@
+{
+  "distributionPlanningPreconditions" : "distributionPlanningPreconditions",
+  "distributionPlanningPostconditions" : "distributionPlanningPostconditions",
+  "distributionPlanningDistributionPlanningServiceInputsandOuputs" : "distributionPlanningDistributionPlanningServiceInputsandOuputs",
+  "distributionPlanningDistributionPlanningServiceName" : "distributionPlanningDistributionPlanningServiceName",
+  "distributionPlanningBusinessUnitEmployeeReference" : "CDPBUR726873",
+  "distributionPlanningUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "distributionPlanningDistributionPlanningServiceWorkProduct" : "distributionPlanningDistributionPlanningServiceWorkProduct",
+  "distributionPlanningDistributionPlanningServiceDescription" : "distributionPlanningDistributionPlanningServiceDescription",
+  "distributionPlanningWorkSchedule" : "distributionPlanningWorkSchedule",
+  "distributionPlanningDistributionPlanningServiceType" : "distributionPlanningDistributionPlanningServiceType",
+  "distributionPlanningUpdateActionTaskReference" : "CDPUATR770927"
+}
